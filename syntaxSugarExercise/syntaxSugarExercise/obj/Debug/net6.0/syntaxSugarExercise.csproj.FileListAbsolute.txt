@@ -1,0 +1,15 @@
+C:\Users\caleb\OneDrive\Desktop\Repos\syntaxSugarExercise\syntaxSugarExercise\syntaxSugarExercise\bin\Debug\net6.0\syntaxSugarExercise.exe
+C:\Users\caleb\OneDrive\Desktop\Repos\syntaxSugarExercise\syntaxSugarExercise\syntaxSugarExercise\bin\Debug\net6.0\syntaxSugarExercise.deps.json
+C:\Users\caleb\OneDrive\Desktop\Repos\syntaxSugarExercise\syntaxSugarExercise\syntaxSugarExercise\bin\Debug\net6.0\syntaxSugarExercise.runtimeconfig.json
+C:\Users\caleb\OneDrive\Desktop\Repos\syntaxSugarExercise\syntaxSugarExercise\syntaxSugarExercise\bin\Debug\net6.0\syntaxSugarExercise.dll
+C:\Users\caleb\OneDrive\Desktop\Repos\syntaxSugarExercise\syntaxSugarExercise\syntaxSugarExercise\bin\Debug\net6.0\syntaxSugarExercise.pdb
+C:\Users\caleb\OneDrive\Desktop\Repos\syntaxSugarExercise\syntaxSugarExercise\syntaxSugarExercise\obj\Debug\net6.0\syntaxSugarExercise.csproj.AssemblyReference.cache
+C:\Users\caleb\OneDrive\Desktop\Repos\syntaxSugarExercise\syntaxSugarExercise\syntaxSugarExercise\obj\Debug\net6.0\syntaxSugarExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb\OneDrive\Desktop\Repos\syntaxSugarExercise\syntaxSugarExercise\syntaxSugarExercise\obj\Debug\net6.0\syntaxSugarExercise.AssemblyInfoInputs.cache
+C:\Users\caleb\OneDrive\Desktop\Repos\syntaxSugarExercise\syntaxSugarExercise\syntaxSugarExercise\obj\Debug\net6.0\syntaxSugarExercise.AssemblyInfo.cs
+C:\Users\caleb\OneDrive\Desktop\Repos\syntaxSugarExercise\syntaxSugarExercise\syntaxSugarExercise\obj\Debug\net6.0\syntaxSugarExercise.csproj.CoreCompileInputs.cache
+C:\Users\caleb\OneDrive\Desktop\Repos\syntaxSugarExercise\syntaxSugarExercise\syntaxSugarExercise\obj\Debug\net6.0\syntaxSugarExercise.dll
+C:\Users\caleb\OneDrive\Desktop\Repos\syntaxSugarExercise\syntaxSugarExercise\syntaxSugarExercise\obj\Debug\net6.0\refint\syntaxSugarExercise.dll
+C:\Users\caleb\OneDrive\Desktop\Repos\syntaxSugarExercise\syntaxSugarExercise\syntaxSugarExercise\obj\Debug\net6.0\syntaxSugarExercise.pdb
+C:\Users\caleb\OneDrive\Desktop\Repos\syntaxSugarExercise\syntaxSugarExercise\syntaxSugarExercise\obj\Debug\net6.0\syntaxSugarExercise.genruntimeconfig.cache
+C:\Users\caleb\OneDrive\Desktop\Repos\syntaxSugarExercise\syntaxSugarExercise\syntaxSugarExercise\obj\Debug\net6.0\ref\syntaxSugarExercise.dll
